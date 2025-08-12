@@ -1,2 +1,2 @@
 # configs
-All of my config files.
+This is a collection of all of my config files.
